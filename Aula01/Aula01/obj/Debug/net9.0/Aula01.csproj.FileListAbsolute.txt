@@ -1,0 +1,14 @@
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\bin\Debug\net9.0\Aula01.exe
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\bin\Debug\net9.0\Aula01.deps.json
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\bin\Debug\net9.0\Aula01.runtimeconfig.json
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\bin\Debug\net9.0\Aula01.dll
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\bin\Debug\net9.0\Aula01.pdb
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.AssemblyInfoInputs.cache
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.AssemblyInfo.cs
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.csproj.CoreCompileInputs.cache
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.dll
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\refint\Aula01.dll
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.pdb
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.genruntimeconfig.cache
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\ref\Aula01.dll
