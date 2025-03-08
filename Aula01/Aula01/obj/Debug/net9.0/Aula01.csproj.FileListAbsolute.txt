@@ -12,3 +12,4 @@ D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\refint\Aul
 D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.pdb
 D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.genruntimeconfig.cache
 D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\ref\Aula01.dll
+D:\FIAP\2 ANO\.NET\exercicios.NET-FIAP\Aula01\Aula01\obj\Debug\net9.0\Aula01.sourcelink.json

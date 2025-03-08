@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\novapasta\\dn05_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\novapasta\\dn05_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn08_colecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn08_colecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\novapasta\\dn04_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\novapasta\\dn04_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\novapasta\\dn03_incremento_decremento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\novapasta\\dn03_incremento_decremento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn07_conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn07_conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\novapasta\\dn01_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\novapasta\\dn01_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn06_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn06_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\novapasta\\dn02_aritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\novapasta\\dn02_aritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn05_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn05_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn04_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn04_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn03_incremento_decremento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn03_incremento_decremento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn01_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn01_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|d:\\fiap\\2 ano\\.net\\exercicios.net-fiap\\aula01\\aula01\\exercicios\\dn02_aritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642350C0-63E3-4C07-9BBB-09BB9972B707}|Aula01\\Aula01.csproj|solutionrelative:aula01\\exercicios\\dn02_aritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,11 +55,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DN08_Colecao.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN08_Colecao.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN08_Colecao.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN08_Colecao.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN08_Colecao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:45:07.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DN07_Conversao.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN07_Conversao.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN07_Conversao.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN07_Conversao.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN07_Conversao.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T23:26:56.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DN06_Input.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN06_Input.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN06_Input.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN06_Input.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN06_Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:42:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DN05_Strings.cs",
-              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN05_Strings.cs",
-              "RelativeDocumentMoniker": "Aula01\\NovaPasta\\DN05_Strings.cs",
-              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN05_Strings.cs",
-              "RelativeToolTip": "Aula01\\NovaPasta\\DN05_Strings.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN05_Strings.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN05_Strings.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN05_Strings.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN05_Strings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T23:53:15.326Z",
@@ -55,65 +106,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DN04_Constantes.cs",
-              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN04_Constantes.cs",
-              "RelativeDocumentMoniker": "Aula01\\NovaPasta\\DN04_Constantes.cs",
-              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN04_Constantes.cs",
-              "RelativeToolTip": "Aula01\\NovaPasta\\DN04_Constantes.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN04_Constantes.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN04_Constantes.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN04_Constantes.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN04_Constantes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:50:25.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T23:50:25.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DN03_Incremento_Decremento.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN03_Incremento_Decremento.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN03_Incremento_Decremento.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN03_Incremento_Decremento.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN03_Incremento_Decremento.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:47:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DN02_Aritmeticos.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN02_Aritmeticos.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN02_Aritmeticos.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN02_Aritmeticos.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN02_Aritmeticos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:38:57.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DN01_Variaveis.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN01_Variaveis.cs",
+              "RelativeDocumentMoniker": "Aula01\\Exercicios\\DN01_Variaveis.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Exercicios\\DN01_Variaveis.cs",
+              "RelativeToolTip": "Aula01\\Exercicios\\DN01_Variaveis.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:38:01.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DN03_Incremento_Decremento.cs",
-              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN03_Incremento_Decremento.cs",
-              "RelativeDocumentMoniker": "Aula01\\NovaPasta\\DN03_Incremento_Decremento.cs",
-              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN03_Incremento_Decremento.cs",
-              "RelativeToolTip": "Aula01\\NovaPasta\\DN03_Incremento_Decremento.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:47:12.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DN02_Aritmeticos.cs",
-              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN02_Aritmeticos.cs",
-              "RelativeDocumentMoniker": "Aula01\\NovaPasta\\DN02_Aritmeticos.cs",
-              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN02_Aritmeticos.cs",
-              "RelativeToolTip": "Aula01\\NovaPasta\\DN02_Aritmeticos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:38:57.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DN01_Variaveis.cs",
-              "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN01_Variaveis.cs",
-              "RelativeDocumentMoniker": "Aula01\\NovaPasta\\DN01_Variaveis.cs",
-              "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\NovaPasta\\DN01_Variaveis.cs",
-              "RelativeToolTip": "Aula01\\NovaPasta\\DN01_Variaveis.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:38:01.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Program.cs",
               "RelativeDocumentMoniker": "Aula01\\Program.cs",
               "ToolTip": "D:\\FIAP\\2 ANO\\.NET\\exercicios.NET-FIAP\\Aula01\\Aula01\\Program.cs",
               "RelativeToolTip": "Aula01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T23:09:43.093Z",
               "EditorCaption": ""

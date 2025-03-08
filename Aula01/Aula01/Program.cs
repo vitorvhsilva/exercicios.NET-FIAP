@@ -1,3 +1,3 @@
 ﻿using Aula01.NovaPasta;
 
-new DN03_Incremento_Decremento();
+new DN06_Input();
