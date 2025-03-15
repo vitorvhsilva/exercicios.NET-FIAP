@@ -1,3 +1,3 @@
-﻿using Aula01.NovaPasta;
+﻿using Aula01.Exercicios;
 
-new DN06_Input();
+new DN08_Colecao();
